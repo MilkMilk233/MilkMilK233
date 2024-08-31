@@ -19,3 +19,4 @@ jobs:
           CODE_LANG: rust # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
+          TIME_RANGE: last_7_days
