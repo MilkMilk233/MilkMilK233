@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm now a student in the M.S. Information Networking @ Carnegie Mellon University, as well as a newbie chef and astronomical observation enthusiast. 
+
+When I am not writing codes, find me at the Museum of Art and Natural History!
+
 <!--
 **MilkMilk233/MilkMilK233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
