@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **Last Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 Go                       2 hrs 1 min         █████████████████████████   100.00 % 
 ```
