@@ -5,12 +5,13 @@ I'm now a student in the M.S. Information Networking @ Carnegie Mellon Universit
 
 
 <!--START_SECTION:waka-->
+This week I have spent some time on: 
 
-```rust
-Total Time: 2 hrs 1 min
-
-Go   2 hrs 1 min     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```text
+💬 Programming Languages: 
+Go                       2 hrs 1 min         █████████████████████████   100.00 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
