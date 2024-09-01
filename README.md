@@ -5,9 +5,11 @@ I'm now a student in the M.S. Information Networking @ Carnegie Mellon Universit
 
 
 <!--START_SECTION:waka-->
-This week I have spent some time on: 
+📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: America/New_York
+
 💬 Programming Languages: 
 Go                       2 hrs 1 min         █████████████████████████   100.00 % 
 ```
