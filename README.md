@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-  
+Last week I spend some time on: 
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Go                       2 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
