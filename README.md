@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-📊 **Last Week I Spent My Time On** 
+  
 
 ```text
 💬 Programming Languages: 
