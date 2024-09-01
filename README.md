@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 0 secs
+Total Time: 2 hrs 1 min
 
-No activity tracked
+Go   2 hrs 1 min     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
