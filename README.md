@@ -9,8 +9,7 @@ This week I have spent some time on:
 
 ```text
 💬 Programming Languages: 
-C++                      40 mins             ███████████████████████░░   91.05 % 
-Makefile                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+No Activity Tracked This Week
 ```
 
 
