@@ -9,7 +9,7 @@ This week I have spent some time on:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 mins              █████████████████████████   100.00 % 
 ```
 
 
