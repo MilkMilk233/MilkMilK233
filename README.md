@@ -5,6 +5,13 @@ I'm now a student in the M.S. Information Networking @ Carnegie Mellon Universit
 
 
 <!--START_SECTION:waka-->
+This week I have spent some time on: 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
